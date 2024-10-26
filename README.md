@@ -1,6 +1,6 @@
 ---
 title: Ookla Speedtest Global Index (2017-2024)
-description: Caribbean
+description: Northern America
 ---
 
 ## Fixed broadband speed by country (worldwide)
